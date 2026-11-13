@@ -1,5 +1,8 @@
 # Prog7312-Poe-HermanMabalane
 
+# Youtube: https://youtu.be/fPG6_6iQXnA 
+
+
 # Smart-X: Network Topology and Mesh Routing
 
 PROG7312 Portfolio of Evidence, Part 3 (Final) Student: Herman Mabalane | Student number: ST10278399
@@ -15,7 +18,7 @@ The API starts first on http://localhost:5109, then the WPF window opens.
 
 # How to use the application
 Sign in
-# Login: doej@email.con Password: Password21
+# Login: doej@email.con Password: Password21 (firebase logins are exactly as written)
 The sign-in window asks for your Firebase email and password. After a successful sign-in the main window opens. A guest option lets you view data without signing in. Actions that change data (sending commands, undo, failing or restoring a node, registering a device, uploading a file) require a signed-in user.
 
 # What the application does
