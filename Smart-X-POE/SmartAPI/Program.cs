@@ -48,7 +48,7 @@ var app = builder.Build();
 Console.WriteLine($"Environment: {app.Environment.EnvironmentName}");
 Console.WriteLine("Swagger UI: http://localhost:5109/swagger");
 
-app.UseSwagger();
+app.UseSwaggerGen();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "SmartX API v1");

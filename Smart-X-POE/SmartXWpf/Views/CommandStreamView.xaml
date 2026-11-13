@@ -1,0 +1,98 @@
+<Page x:Class="SmartXWpf.Views.CommandStreamView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="5">
+            <TextBlock Text="Real-Time Command Stream and History" FontSize="25" FontWeight="Bold" Margin="0,0,0,8"/>
+            <TextBlock Text="{Binding StatusMessage}" Foreground="DarkSlateGray" TextWrapping="Wrap" Margin="0,0,0,12"/>
+
+            <TextBlock Text="Actuator Commands" FontSize="18" FontWeight="Bold"/>
+            <WrapPanel Margin="0,8,0,8">
+                <Button Content="Pump On" Click="PumpOn_Click" Width="110" Height="32" Margin="0,0,8,0"/>
+                <Button Content="Pump Off" Click="PumpOff_Click" Width="110" Height="32" Margin="0,0,8,0"/>
+                <Button Content="Relay Toggle" Click="RelayToggle_Click" Width="110" Height="32" Margin="0,0,8,0"/>
+                <Button Content="Undo" Click="Undo_Click" Width="110" Height="32"/>
+            </WrapPanel>
+            <DataGrid ItemsSource="{Binding Actuators}" AutoGenerateColumns="False" IsReadOnly="True" Height="90" Margin="0,0,0,16">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Actuator" Binding="{Binding SensorId}" Width="*"/>
+                    <DataGridTextColumn Header="Zone" Binding="{Binding Zone}" Width="*"/>
+                    <DataGridTextColumn Header="Type" Binding="{Binding Category}" Width="*"/>
+                    <DataGridTextColumn Header="State" Binding="{Binding State}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <TextBlock Text="Search and Filter Devices" FontSize="18" FontWeight="Bold"/>
+            <Grid Margin="0,8,0,8">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="110"/>
+                </Grid.ColumnDefinitions>
+                <TextBox Grid.Column="0" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" Height="30" VerticalContentAlignment="Center" Margin="0,0,8,0" ToolTip="Category, for example Soil Moisture, Pump or Relay"/>
+                <ComboBox Grid.Column="1" ItemsSource="{Binding AlertStates}" SelectedItem="{Binding SelectedAlertState}" Height="30" Margin="0,0,8,0"/>
+                <Button Grid.Column="2" Content="Search" Click="Search_Click" Height="30"/>
+            </Grid>
+            <DataGrid ItemsSource="{Binding SearchResults}" AutoGenerateColumns="False" IsReadOnly="True" Height="130" Margin="0,0,0,16">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Device" Binding="{Binding SensorId}" Width="*"/>
+                    <DataGridTextColumn Header="MAC" Binding="{Binding MacAddress}" Width="1.5*"/>
+                    <DataGridTextColumn Header="Zone" Binding="{Binding Zone}" Width="*"/>
+                    <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="*"/>
+                    <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="*"/>
+                    <DataGridTextColumn Header="Battery %" Binding="{Binding Battery, StringFormat=F0}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <Grid Margin="0,0,0,16">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="0,0,12,0">
+                    <TextBlock Text="Live Timeline" FontSize="18" FontWeight="Bold" Margin="0,0,0,8"/>
+                    <DataGrid ItemsSource="{Binding Timeline}" AutoGenerateColumns="False" IsReadOnly="True" Height="260">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Time" Binding="{Binding Timestamp, StringFormat=HH:mm:ss}"/>
+                            <DataGridTextColumn Header="Sensor" Binding="{Binding SensorId}"/>
+                            <DataGridTextColumn Header="Moisture %" Binding="{Binding SoilMoisture, StringFormat=F1}"/>
+                            <DataGridTextColumn Header="Temp C" Binding="{Binding Temperature, StringFormat=F1}"/>
+                            <DataGridTextColumn Header="Humidity %" Binding="{Binding Humidity, StringFormat=F1}"/>
+                            <DataGridTextColumn Header="Flow" Binding="{Binding WaterFlow, StringFormat=F1}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+                    <TextBlock Text="Suggested Actions" FontSize="18" FontWeight="Bold" Margin="0,0,0,8"/>
+                    <ListBox ItemsSource="{Binding Suggestions}" Height="110" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <TextBlock Text="Automated Insights" FontSize="18" FontWeight="Bold" Margin="0,12,0,8"/>
+                    <ListBox ItemsSource="{Binding Insights}" Height="110" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </StackPanel>
+            </Grid>
+
+            <TextBlock Text="Command and Search History" FontSize="18" FontWeight="Bold" Margin="0,0,0,8"/>
+            <DataGrid ItemsSource="{Binding HistoryEvents}" AutoGenerateColumns="False" IsReadOnly="True" Height="180">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Time" Binding="{Binding Timestamp, StringFormat=yyyy-MM-dd HH:mm:ss}"/>
+                    <DataGridTextColumn Header="Type" Binding="{Binding Type}"/>
+                    <DataGridTextColumn Header="Event" Binding="{Binding Text}" Width="*"/>
+                    <DataGridTextColumn Header="Active Condition" Binding="{Binding ActiveCondition}" Width="2*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

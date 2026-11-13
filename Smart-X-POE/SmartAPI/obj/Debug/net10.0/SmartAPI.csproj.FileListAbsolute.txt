@@ -1,0 +1,9 @@
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.csproj.AssemblyReference.cache
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.AssemblyInfoInputs.cache
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.AssemblyInfo.cs
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.csproj.CoreCompileInputs.cache
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartAPI\obj\Debug\net10.0\SmartAPI.sourcelink.json
