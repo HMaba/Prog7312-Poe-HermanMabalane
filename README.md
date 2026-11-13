@@ -72,7 +72,7 @@ Ordered live timeline	SortedDictionary<DateTime, T>	DataHub.SensorTimeline	Alway
 
 No duplicate alerts	HashSet<string>	DataHub.ActiveErrors	An alert condition can only be active once
 
-#AVL tree: historical telemetry
+# AVL tree: historical telemetry
 
 Every processed reading is inserted into the tree for its sensor, keyed by timestamp.
 
