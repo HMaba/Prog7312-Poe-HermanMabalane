@@ -1,8 +1,5 @@
 namespace SmartXWpf.Services;
 
-/// <summary>
-/// Holds the signed-in Firebase session so every ApiService instance in the app can attach the same bearer token.
-/// </summary>
 public static class AuthSession
 {
     public static string? IdToken { get; internal set; }

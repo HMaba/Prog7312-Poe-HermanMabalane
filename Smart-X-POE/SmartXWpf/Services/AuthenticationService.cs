@@ -5,10 +5,6 @@ using System.Text.Json.Serialization;
 
 namespace SmartXWpf.Services;
 
-/// <summary>
-/// Firebase email/password authentication (ported from Part 2). Signs in through the Firebase
-/// Identity Toolkit REST endpoint and keeps the resulting ID token in <see cref="AuthSession"/>.
-/// </summary>
 public sealed class AuthenticationService
 {
     // Firebase Web API keys identify a project; they are not service-account credentials.
@@ -69,10 +65,9 @@ public sealed class AuthenticationService
 
     public void SignOut() => AuthSession.Clear();
 
-    /// <summary>
-    /// Returns the current ID token (or null when signed out / guest). Firebase ID tokens last about an hour,
-    /// so a token that is close to expiry is silently refreshed with the stored refresh token.
-    /// </summary>
+    
+    /// Returns the current ID token (or null when signed out / guest). Firebase ID tokens last about an hour so a token that is close to expiry is silently refreshed with the stored refresh token.
+    
     public static async Task<string?> GetValidTokenAsync(CancellationToken ct = default)
     {
         if (!AuthSession.IsSignedIn)
@@ -84,7 +79,6 @@ public sealed class AuthenticationService
         await RefreshLock.WaitAsync(ct);
         try
         {
-            // Another caller may have refreshed while we were waiting.
             if (!AuthSession.IsSignedIn)
                 return null;
             if (!IsNearExpiry() || string.IsNullOrWhiteSpace(AuthSession.RefreshToken))
@@ -100,8 +94,7 @@ public sealed class AuthenticationService
                 });
                 using var response = await FirebaseHttp.PostAsync(endpoint, form, ct);
                 if (!response.IsSuccessStatusCode)
-                    return AuthSession.IdToken; // let the API decide; the user can sign in again
-
+                    return AuthSession.IdToken; 
                 var body = await response.Content.ReadAsStringAsync(ct);
                 var refreshed = JsonSerializer.Deserialize<FirebaseRefreshResponse>(body, Json);
                 if (refreshed is null || string.IsNullOrWhiteSpace(refreshed.IdToken))
@@ -114,7 +107,7 @@ public sealed class AuthenticationService
             }
             catch (Exception ex) when (ex is HttpRequestException or TaskCanceledException or JsonException)
             {
-                // Network hiccup: keep using the existing token and try again on the next request.
+               
             }
 
             return AuthSession.IdToken;
