@@ -119,3 +119,25 @@ sensors with a low battery (below 20%),
 readings outside the normal range: moisture below 30%, temperature above 35 C, humidity outside 35 to 90%, water flow above 25 L/min.
 
 The history is seeded with four patterns so the panel has content on first launch, and it grows as the operator uses the system.
+
+# Tests
+AvlTreeTests (7 tests) check the tree that stores telemetry history by timestamp:
+
+Inserting items increases the count.
+Querying an empty tree returns nothing.
+A time-range query returns only readings inside the range, in chronological order, even if they were inserted out of order.
+The start and end of the range are included.
+A range where the start is after the end returns nothing.
+Readings with the same timestamp are all kept.
+Thousands of sequential inserts still give correct results.
+
+MeshGraphTests (8 tests) check the sensor network graph:
+
+Edges work in both directions, and self-loops and duplicate edges are ignored.
+Breadth-first search visits nodes level by level, and an unknown start node returns an empty list.
+Prim’s algorithm builds the cheapest spanning tree and skips the heavier edge, and an unknown start node returns an empty list.
+Routing follows the spanning tree from a node to the gateway, and returns null for a node that is not connected.
+Removing a node also removes its edges.
+
+Together they check that the data structures return correct results for normal use, edge cases and invalid input.
+<img width="1905" height="255" alt="Screenshot 2026-11-13 200910" src="https://github.com/user-attachments/assets/8d71c95d-164b-4405-9ec0-cfaa55044bac" />
