@@ -47,16 +47,27 @@ In SmartXWpf/Services/AuthenticationService.cs, set the Firebase Web API key for
 
 
 # Data structures and algorithms
-Summary
-Requirement	Structure or algorithm	Where	Why it was chosen
+# Summary #
+Requirement,	Structure or algorithm,	Where,	and Why it was chosen
+
 Historical queries by time range	AVL tree (self-balancing BST)	AvlTree.cs, DataHub.History	Telemetry arrives in timestamp order. A plain tree would become a linked list. AVL stays balanced, so inserts and range queries stay fast
+
 Model the mesh	Weighted undirected graph (adjacency list)	MeshGraph.cs	A mesh is a set of devices with links between them. Edges carry a power cost
+
 Which devices are connected or down	Breadth-first search (BFS)	MeshGraph.Bfs	Visits every node reachable from the gateway. Anything not visited is unreachable
+
 Most power-efficient routing	Prim's minimum spanning tree	MeshGraph.Prim	Connects all reachable nodes to the gateway at the lowest total link cost
+
 Route of one sensor	Parent walk up the MST	MeshGraph.RouteToGateway	Follows each node's MST parent until the gateway
+
 Telemetry processing	Queue<T>	DataHub.TelemetryQueue	First in, first out for incoming packets
+
 Critical alerts first	PriorityQueue<T, int>	DataHub.CriticalAlertQueue	Critical alerts have priority 0 and are processed before telemetry
+
 Command undo	Stack<T>	DataHub.CommandUndoStack	Last command is the first undone
+
 Device lookup	Dictionary<string, Device>	DataHub.DeviceRegistry	Instant lookup by MAC address, no list scanning
+
 Ordered live timeline	SortedDictionary<DateTime, T>	DataHub.SensorTimeline	Always in time order for the timeline
+
 No duplicate alerts	HashSet<string>	DataHub.ActiveErrors	An alert condition can only be active once
