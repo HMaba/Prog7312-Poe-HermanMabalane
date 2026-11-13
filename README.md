@@ -71,3 +71,15 @@ Device lookup	Dictionary<string, Device>	DataHub.DeviceRegistry	Instant lookup b
 Ordered live timeline	SortedDictionary<DateTime, T>	DataHub.SensorTimeline	Always in time order for the timeline
 
 No duplicate alerts	HashSet<string>	DataHub.ActiveErrors	An alert condition can only be active once
+
+#AVL tree: historical telemetry
+
+Every processed reading is inserted into the tree for its sensor, keyed by timestamp.
+
+After each insert the path back to the root is rebalanced. If a node's left and right heights differ by more than one, it is fixed with a single or double rotation.
+
+The range query only walks branches that can contain matching timestamps. Whole subtrees outside the range are skipped.
+
+Results come back in timestamp order because of the in-order walk. A reversed range (from later than to) returns an empty list. The API turns that into a 400 Bad Request.
+
+Why a tree? Pulling "all readings between 14:00 and 16:00 for Node A" from an unordered list means checking every reading. The tree reaches the start of the range in about log n steps and then only visits the matching readings.
