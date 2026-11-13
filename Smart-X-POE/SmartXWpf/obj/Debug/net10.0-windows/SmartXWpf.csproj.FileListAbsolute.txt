@@ -1,3 +1,8 @@
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.exe
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.deps.json
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.runtimeconfig.json
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.dll
+C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.pdb
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\Views\AlertsView.baml
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\Views\CommandStreamView.baml
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\Views\DashboardView.baml
@@ -24,11 +29,6 @@ C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\SmartXWpf.AssemblyInfo.cs
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\SmartXWpf.csproj.CoreCompileInputs.cache
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\SmartXWpf.sourcelink.json
-C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.exe
-C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.deps.json
-C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.runtimeconfig.json
-C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.dll
-C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\bin\Debug\net10.0-windows\SmartXWpf.pdb
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\SmartXWpf.dll
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\refint\SmartXWpf.dll
 C:\Users\hmaba\OneDrive\Documents\GitHub\Prog7312-Poe-HermanMabalane\Smart-X-POE\SmartXWpf\obj\Debug\net10.0-windows\SmartXWpf.pdb

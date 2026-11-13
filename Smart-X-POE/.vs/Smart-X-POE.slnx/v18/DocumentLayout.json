@@ -11,16 +11,35 @@
       "RelativeMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|solutionrelative:smartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartxwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|solutionrelative:smartxwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartxwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|solutionrelative:smartxwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartxwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|solutionrelative:smartxwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartxwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|solutionrelative:smartxwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartapi\\smartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|solutionrelative:smartapi\\smartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|solutionrelative:smartapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartapi\\smartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{FF8D1304-F2C0-48EA-8CDC-F9BBB83F6C69}|SmartAPI\\SmartAPI.csproj|solutionrelative:smartapi\\smartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE68ED21-4ABC-44BC-8C11-5FD1143860D6}|SmartXWpf\\SmartXWpf.csproj|c:\\users\\hmaba\\onedrive\\documents\\github\\prog7312-poe-hermanmabalane\\smart-x-poe\\smartxwpf\\views\\topologyview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,11 +185,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\App.xaml",
+              "RelativeDocumentMoniker": "SmartXWpf\\App.xaml",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\App.xaml",
+              "RelativeToolTip": "SmartXWpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-13T16:23:12.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SmartXWpf\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SmartXWpf\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:20:58.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SmartXWpf\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "SmartXWpf\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-13T16:20:53.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\hmaba\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8646a45aed9b4ef7416dfd57c3236af05a7ffe9a232b7b6c9cfed2434fb72a85\\ResourcePart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:05:26.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,14 +249,40 @@
               "RelativeDocumentMoniker": "SmartAPI\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "SmartAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-11-13T15:53:22.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SmartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Program.cs",
+              "RelativeToolTip": "SmartAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T14:39:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SmartXWpf\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\AssemblyInfo.cs",
+              "RelativeToolTip": "SmartXWpf\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T16:24:36.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -195,12 +290,11 @@
               "RelativeToolTip": ".dockerignore",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-11-13T15:49:12.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-13T15:49:12.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SmartAPI\\appsettings.Development.json",
@@ -208,12 +302,11 @@
               "RelativeToolTip": "SmartAPI\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-13T15:49:07.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-13T15:49:07.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "SmartAPI.http",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\SmartAPI.http",
               "RelativeDocumentMoniker": "SmartAPI\\SmartAPI.http",
@@ -226,20 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Program.cs",
-              "RelativeDocumentMoniker": "SmartAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Program.cs",
-              "RelativeToolTip": "SmartAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-13T14:39:09.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "TopologyView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\TopologyView.xaml.cs",
               "RelativeDocumentMoniker": "SmartXWpf\\Views\\TopologyView.xaml.cs",
@@ -251,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "TelemetryView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\TelemetryView.xaml.cs",
               "RelativeDocumentMoniker": "SmartXWpf\\Views\\TelemetryView.xaml.cs",
@@ -263,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "AlertsView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\AlertsView.xaml.cs",
               "RelativeDocumentMoniker": "SmartXWpf\\Views\\AlertsView.xaml.cs",
@@ -275,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "TopologyView.xaml",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\TopologyView.xaml",
               "RelativeDocumentMoniker": "SmartXWpf\\Views\\TopologyView.xaml",
@@ -286,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AlertsView.xaml",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartXWpf\\Views\\AlertsView.xaml",
               "RelativeDocumentMoniker": "SmartXWpf\\Views\\AlertsView.xaml",
@@ -297,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "SmartAPI.csproj",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\SmartAPI.csproj",
               "RelativeDocumentMoniker": "SmartAPI\\SmartAPI.csproj",
@@ -309,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\appsettings.json",
               "RelativeDocumentMoniker": "SmartAPI\\appsettings.json",
@@ -321,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "FacilityController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\FacilityController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\FacilityController.cs",
@@ -333,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "PowerSimulator.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Services\\PowerSimulator.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Services\\PowerSimulator.cs",
@@ -345,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "CommandsController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\CommandsController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\CommandsController.cs",
@@ -357,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "FarmStore.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Services\\FarmStore.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Services\\FarmStore.cs",
@@ -369,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "MeshGraph.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Services\\MeshGraph.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Services\\MeshGraph.cs",
@@ -381,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "TelemetrySimulator.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Services\\TelemetrySimulator.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Services\\TelemetrySimulator.cs",
@@ -393,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "DataHub.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Services\\DataHub.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Services\\DataHub.cs",
@@ -405,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "AvlTree.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Services\\AvlTree.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Services\\AvlTree.cs",
@@ -417,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Device.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\Device.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\Device.cs",
@@ -429,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Alert.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\Alert.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\Alert.cs",
@@ -441,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Topology.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\Topology.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\Topology.cs",
@@ -453,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "TelemetryRecord.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\TelemetryRecord.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\TelemetryRecord.cs",
@@ -465,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "TelemetryPacket.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\TelemetryPacket.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\TelemetryPacket.cs",
@@ -477,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "PowerMeter.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\PowerMeter.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\PowerMeter.cs",
@@ -489,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Insights.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\Insights.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\Insights.cs",
@@ -501,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "HistoryEvent.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\HistoryEvent.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\HistoryEvent.cs",
@@ -513,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "FacilityPower.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\FacilityPower.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\FacilityPower.cs",
@@ -525,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "FacilityNode.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\FacilityNode.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\FacilityNode.cs",
@@ -537,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Command.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Models\\Command.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Models\\Command.cs",
@@ -549,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "TopologyController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\TopologyController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\TopologyController.cs",
@@ -561,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "TelemetryController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\TelemetryController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\TelemetryController.cs",
@@ -573,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "InsightsController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\InsightsController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\InsightsController.cs",
@@ -585,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "FilesController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\FilesController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\FilesController.cs",
@@ -597,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "FacilityPowerController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\FacilityPowerController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\FacilityPowerController.cs",
@@ -609,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "DevicesController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\DevicesController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\DevicesController.cs",
@@ -621,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\AuthController.cs",
@@ -633,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "AlertsController.cs",
               "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Documents\\GitHub\\Prog7312-Poe-HermanMabalane\\Smart-X-POE\\SmartAPI\\Controllers\\AlertsController.cs",
               "RelativeDocumentMoniker": "SmartAPI\\Controllers\\AlertsController.cs",
