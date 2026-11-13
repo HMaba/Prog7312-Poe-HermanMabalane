@@ -46,7 +46,7 @@ builder.Services.AddOpenApi();
 var app = builder.Build();
 
 Console.WriteLine($"Environment: {app.Environment.EnvironmentName}");
-Console.WriteLine("Swagger UI: http://localhost:5029/swagger");
+Console.WriteLine("Swagger UI: http://localhost:5109/swagger");
 
 app.UseSwagger();
 app.UseSwaggerUI(c =>
