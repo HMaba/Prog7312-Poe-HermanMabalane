@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2f8493d17b785bdb35e45254a220f32971ee951")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a87d15b6b5f1399c42dcc52b7e1654e6aef12696")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
