@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SmartAPI\\SmartAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SmartXWpf\\SmartXWpf.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
