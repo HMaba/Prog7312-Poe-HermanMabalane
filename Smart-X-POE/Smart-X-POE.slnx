@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="SmartAPI/SmartAPI.csproj" Id="ff8d1304-f2c0-48ea-8cdc-f9bbb83f6c69" />
+  <Project Path="SmartXWpf/SmartXWpf.csproj" Id="ce68ed21-4abc-44bc-8c11-5fd1143860d6" />
 </Solution>
